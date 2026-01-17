@@ -1,0 +1,65 @@
+{
+  "buttons": [
+    {
+      "tag": "button",
+      "type": "submit",
+      "text": "Continue",
+      "id": "",
+      "className": "Button-sc-qlcn5g-0 hRpqrX encore-text-body-medium-bold",
+      "visible": true
+    }
+  ],
+  "inputs": [],
+  "iframes": [
+    {
+      "src": "https://www.google.com/recaptcha/enterprise/anchor?ar=1&k=6LeO36obAAAAALSBZrY6RYM1hcAY7RLvpDDcJLy3&co=aHR0cHM6Ly9jaGFsbGVuZ2Uuc3BvdGlmeS5jb206NDQz&hl=en&v=PoyoqOPhxBO7pBk68S4YbpHZ&theme=dark&size=normal&sa=challenge&anchor-ms=20000&execute-ms=30000&cb=qpbv5f6rlwtf",
+      "id": "",
+      "title": "reCAPTCHA",
+      "visible": true
+    },
+    {
+      "src": "",
+      "id": "",
+      "title": "",
+      "visible": false
+    },
+    {
+      "src": "https://www.google.com/recaptcha/enterprise/bframe?hl=en&v=PoyoqOPhxBO7pBk68S4YbpHZ&k=6LeO36obAAAAALSBZrY6RYM1hcAY7RLvpDDcJLy3&bft=0dAFcWeA6VH8gl2GrjP_uq3MxqWO7zHGyGVHw1-Xzz2zPAXMGrJ0JEfT9F4wij8fdTJzQawQjuJlATnmiH6aZCwnusCC3EgWv60A",
+      "id": "",
+      "title": "recaptcha challenge expires in two minutes",
+      "visible": true
+    }
+  ],
+  "forms": [],
+  "links": [],
+  "recaptchaElements": [
+    {
+      "tag": "div",
+      "id": "",
+      "className": "g-recaptcha",
+      "sitekey": "6LeO36obAAAAALSBZrY6RYM1hcAY7RLvpDDcJLy3",
+      "text": ""
+    },
+    {
+      "tag": "textarea",
+      "id": "g-recaptcha-response",
+      "className": "g-recaptcha-response",
+      "sitekey": null,
+      "text": ""
+    },
+    {
+      "tag": "div",
+      "id": "",
+      "className": "g-recaptcha-bubble-arrow",
+      "sitekey": null,
+      "text": ""
+    },
+    {
+      "tag": "div",
+      "id": "",
+      "className": "g-recaptcha-bubble-arrow",
+      "sitekey": null,
+      "text": ""
+    }
+  ]
+}

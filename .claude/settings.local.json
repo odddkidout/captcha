@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(timeout 300 tail:*)",
+      "Bash(node test.js:*)",
+      "Bash(npm uninstall:*)",
+      "Bash(node:*)",
+      "Bash(cat:*)",
+      "Bash(ls:*)",
+      "Bash(open:*)"
+    ]
+  }
+}
